@@ -1,5 +1,4 @@
 # Welcome to Star Teknoloji Jekyll!
-# Welcome to Star Teknoloji Jekyll!
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -20,16 +19,18 @@
 
 title: STAR Teknoloji 
 email: ercetinguler@starteknoloji.space
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:https://starteknoloji.space"
   Hoşgeldiniz Star Teknoloji Hİzmetinizde. Google Haritalar ve Github Sayfalarında 
   Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://starsuff.tech" # the base hostname & protocol for your site, e.g. https://wwww.starsuff.tech
+url: "https://starteknoloji.space" # the base hostname & protocol for your site, e.g. https://wwww.starteknoloji.space
 twitter_username: guler_ercetin
 github_username: StarTeknoloji
 
 # Build settings
 theme: minima
+tittle: (* STAR TEKNOLOJİ 
+description: Hoşgeldiniz...
 plugins:
   - jekyll-feed
   
