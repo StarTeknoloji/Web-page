@@ -19,18 +19,19 @@
 
 title: STAR Teknoloji 
 email: ercetinguler@starteknoloji.space
-description: >- # this means to ignore newlines until "baseurl:https://starteknoloji.space/about.html"
+description: >- # this means to ignore newlines until "baseurl:https://www.starcomputer.space"
   Hoşgeldiniz Star Teknoloji Hİzmetinizde. Google Haritalar ve Github Sayfalarında 
   Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://starteknoloji.space/about.html" # the base hostname & protocol for your site, e.g. https://wwww.starteknoloji.space/about.html
+baseurl: "https://starcomputer.space/blog" # the subpath of your site, e.g. /blog
+url: "https://starcomputer.space/" # the base hostname & protocol for your site, e.g. https://wwww.starcompter.space
 twitter_username: guler_ercetin
 github_username: StarTeknoloji
 
 # Build settings
 theme: minima
 tittle: (* STAR TEKNOLOJİ 
-description: Hoşgeldiniz...
+description:  Hoşgeldiniz Star Teknoloji Hİzmetinizde. Google Haritalar ve Github Sayfalarında 
+Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.
 plugins:
   - jekyll-feed
   
