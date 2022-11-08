@@ -2,7 +2,7 @@
 $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-566fec5c-d710-4dcb-b5e2-7880e2d4d970.png)
 ![indir (25)](https://user-images.githubusercontent.com/93947784/197099060-5e8ccc29-52b6-41ce-bdd7-353110b62fd0.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
 >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
-![Starcomputer](https://user-images.githubusercontent.com/93947784/200623121-21dce011-6f95-4f16-b6a9-84ea474df872.PNG)
+![13402223_transparent](https://user-images.githubusercontent.com/93947784/200623705-779df583-9768-4b44-bc2c-c4ae2fabfd5d.png)
 
 
 # $*Güvenli Alış Veriş (yapım aşamasında)
