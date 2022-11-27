@@ -18,12 +18,12 @@
 
 # *StarTeknoloji.space
 ## Computer İnformation Services     
->>> ## `Computer and Peripherals`
->>> ## `Network Setup`
->>> ## `Website Setup` 
->>> ## `Server Setup`
->>> ## `Enterprise Application Management and Release Development`              
->>> ## `Information Technology Consulting, Microsoft MCP Continuity`
+>>> ## - `Computer and Peripherals`
+>>> ## - `Network Setup`
+>>> ## - `Website Setup` 
+>>> ## - `Server Setup`
+>>> ## - `Enterprise Application Management and Release Development`              
+>>> ## - `Information Technology Consulting, Microsoft MCP Continuity`
 >>>## Missions %100 local  
 >>> # 1.`Computer, Phone, Tablet, Technical Service.`
 >>> # 2.`Operating System Installation, Application Installation,.`
@@ -105,15 +105,13 @@ double quotes: "have many: \", \0, \t, \u263A, \x0d\x0a == \r\n, and more."
 Superscript two: \u00B2
 # Multiple-line strings can be written either as a 'literal block' (using |),
 # or a 'folded block' (using '>').
-literal_block: |
-    This entire block of text will be the value of the 'literal_block' key,
+literal_block: | This entire block of text will be the value of the 'literal_block' key,
     with line breaks being preserved.
     The literal continues until de-dented, and the leading indentation is
     stripped.
         Any lines that are 'more-indented' keep the rest of their indentation -
         these lines will be indented by 4 spaces.
-folded_style: >
-    This entire block of text will be the value of 'folded_style', but this
+folded_style: > This entire block of text will be the value of 'folded_style', but this
     time, all newlines will be replaced with a single space.
     Blank lines, like above, are converted to a newline character.
         'More-indented' lines keep their newlines, too -
@@ -215,3 +213,6 @@ set2:
   item2: null
   item3: null
 ...  # document end
+
+   
+   
