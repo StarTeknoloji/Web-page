@@ -16,7 +16,7 @@
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/starteknoloji.yml)
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 
-# *StarTeknoloji.space
+# ***StarTeknoloji.space***
 ## Computer İnformation Services     
 >>> ## - `Computer and Peripherals`
 >>> ## - `Network Setup`
@@ -54,7 +54,7 @@
 
 >>> ## ***This is an Emerging Platform. Please Contribute*** !!!
 
->>> ## Our Sites Published
+## ***Our Sites Published***
 >>> ## [Tracing CodesExe](https://codesexe.com)        
 >>> ## [StarTeknolog Standard Js. Style](https://starteknolog.com)
 >>> ## [starcomputer.space Fast Pages](https://starcomputer.space)   
