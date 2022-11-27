@@ -18,60 +18,60 @@
 
 # *StarTeknoloji.space
 ## Computer İnformation Services     
-> ## `Computer and Peripherals`
-> ## `Network Setup`
-> ## `Website Setup` 
-> ## `Server Setup`
-> ## `Enterprise Application Management and Release Development`              
-> ## `Information Technology Consulting, Microsoft MCP Continuity`
->>## Missions %100 local  
-> # 1.`Computer, Phone, Tablet, Technical Service.`
-> # 2.`Operating System Installation, Application Installation,.`
-> # 3.`Backup and Recovery`
-> # 4.`Official Printout, Photocopy, Color output.` 
-> # 5.`Security Camera ve Web Cablo  Connection.`
-> # 6.`A4 PVC Coating, Spiral Notebook.`
-> # 7.`Second-Hand Trading.`
-> # 8.`We have Motherboard Repair, Eprom process, Soldering.`
-> # 9.`Warranty and Outsourcing.`
-> # 10.`10:00 ve 19:00 Study.`
+>>> ## `Computer and Peripherals`
+>>> ## `Network Setup`
+>>> ## `Website Setup` 
+>>> ## `Server Setup`
+>>> ## `Enterprise Application Management and Release Development`              
+>>> ## `Information Technology Consulting, Microsoft MCP Continuity`
+>>>## Missions %100 local  
+>>> # 1.`Computer, Phone, Tablet, Technical Service.`
+>>> # 2.`Operating System Installation, Application Installation,.`
+>>> # 3.`Backup and Recovery`
+>>> # 4.`Official Printout, Photocopy, Color output.` 
+>>> # 5.`Security Camera ve Web Cablo  Connection.`
+>>> # 6.`A4 PVC Coating, Spiral Notebook.`
+>>> # 7.`Second-Hand Trading.`
+>>> # 8.`We have Motherboard Repair, Eprom process, Soldering.`
+>>> # 9.`Warranty and Outsourcing.`
+>>> # 10.`10:00 ve 19:00 Study.`
  
 # *Our @codes.istanbul project 
-> ## Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
+>>> ## Open Source Project www.codes.istanbul I am taking my steps and waiting for support. codesexe.com, codesexe.org, codesexe.net. This is my Dream I will work hard to make it come true.
 ### Our supporters codes.computer, starteknolog.com, starcomputer.space
 # *ANNOUNCEMENT
 ## Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@starteknoloji.space. People with Open Source, app projects are helped to work on these sites. It is free.
 >>> # *Discord
-## [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d) 
-## [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt) 
+>>> ## [Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d) 
+>>> ## [Discord Invitation StarTeknloji server broadcast can be done](https://discord.new/p24B69R7WePt) 
 
->> <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
+>>> <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 
->> <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
+>>> <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
 
 >>> <h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
 
 >>> ## *This is an Emerging Platform. Please Contribute !!!
 
 >>> ## Our Sites Published
->  ## [Tracing CodesExe](https://codesexe.com)        
->  ## [StarTeknolog Standard Js. Style](https://starteknolog.com)
->  ## [starcomputer.space Fast Pages](https://starcomputer.space)   
->  ## [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
->  ## [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
->  ## yıldızteknoloji.com  ( not published )
->  ## codes.computer       ( not published )
->  ## http://teknoloji.space 
->  ## www.starteknoloji.net
+>>> ## [Tracing CodesExe](https://codesexe.com)        
+>>> ## [StarTeknolog Standard Js. Style](https://starteknolog.com)
+>>> ## [starcomputer.space Fast Pages](https://starcomputer.space)   
+>>> ## [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
+>>> ## [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
+>>> ## yıldızteknoloji.com  ( not published )
+>>> ## codes.computer       ( not published )
+>>> ## http://teknoloji.space 
+>>> ## www.starteknoloji.net
 
 >>> ## *Support or Contact
->  ## `+90 0507 236 39 28`    
->  ## `+90 0288 318 33 40` 
->  ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
->  ## [ercetinguler@codesexe.com](https://outlook.live.com)
->  ## [author@codes.computer](https://outlook.live.com)
->  ## [user@starcomputer.space](https://outlok.live.com)
-> ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)Erçetin Güler, Aynur Zorlu     
+>>> ## `+90 0507 236 39 28`    
+>>> ## `+90 0288 318 33 40` 
+>>> ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
+>>> ## [ercetinguler@codesexe.com](https://outlook.live.com)
+>>> ## [author@codes.computer](https://outlook.live.com)
+>>> ## [user@starcomputer.space](https://outlok.live.com)
+>>> ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)Erçetin Güler, Aynur Zorlu     
 
 ![1666597976341](https://user-images.githubusercontent.com/93947784/197486488-c3f4e333-9947-4aea-b1f0-fa5a5c441a48.png)
 
