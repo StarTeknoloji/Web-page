@@ -1,10 +1,10 @@
-> - **`(*`** **WEB Planet**
+ - **`(*`** **WEB Planet**
 ![STARteknoloji](https://user-images.githubusercontent.com/93947784/204149406-a97be625-a127-4542-96ee-9dc970e9e08c.png)
->>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
+![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 ![13402223_transparent](https://user-images.githubusercontent.com/93947784/200623705-779df583-9768-4b44-bc2c-c4ae2fabfd5d.png)
 ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-566fec5c-d710-4dcb-b5e2-7880e2d4d970.png)
 ![indir (25)](https://user-images.githubusercontent.com/93947784/197099060-5e8ccc29-52b6-41ce-bdd7-353110b62fd0.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
->>>![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
+![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
 [![Deploy static content to Pages](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml)
@@ -53,24 +53,24 @@
 >>> ## *This is an Emerging Platform. Please Contribute !!!
 
 ## Our Sites Published
->> ## [Tracing CodesExe](https://codesexe.com)        
->> ## [StarTeknolog Standard Js. Style](https://starteknolog.com)
->> ## [starcomputer.space Fast Pages](https://starcomputer.space)   
->> ## [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
->> ## [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
->> ## yıldızteknoloji.com  ( not published )
->> ## codes.computer       ( not published )
->> ## http://teknoloji.space 
->> ## www.starteknoloji.net
+ ## [Tracing CodesExe](https://codesexe.com)        
+ ## [StarTeknolog Standard Js. Style](https://starteknolog.com)
+ ## [starcomputer.space Fast Pages](https://starcomputer.space)   
+ ## [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
+ ## [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
+ ## yıldızteknoloji.com  ( not published )
+ ## codes.computer       ( not published )
+ ## http://teknoloji.space 
+ ## www.starteknoloji.net
 
-> ## *Support or Contact
-> ## `+90 0507 236 39 28`    
-> ## `+90 0288 318 33 40` 
-> ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
-> ## [ercetinguler@codesexe.com](https://outlook.live.com)
-> ## [author@codes.computer](https://outlook.live.com)
-> ## [user@starcomputer.space](https://outlok.live.com)
-> ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)Erçetin Güler, Aynur Zorlu     
+ ## *Support or Contact
+ ## `+90 0507 236 39 28`    
+ ## `+90 0288 318 33 40` 
+ ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
+ ## [ercetinguler@codesexe.com](https://outlook.live.com)
+ ## [author@codes.computer](https://outlook.live.com)
+ ## [user@starcomputer.space](https://outlok.live.com)
+ ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)Erçetin Güler, Aynur Zorlu     
 `UA-240549066-1S`
 ![1666597976341](https://user-images.githubusercontent.com/93947784/197486488-c3f4e333-9947-4aea-b1f0-fa5a5c441a48.png)
 
