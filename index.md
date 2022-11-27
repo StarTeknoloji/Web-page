@@ -1,4 +1,4 @@
-# **`(*` WEB pLANET
+> - **`(*`** **WEB Planet**
 ![STARteknoloji](https://user-images.githubusercontent.com/93947784/204149406-a97be625-a127-4542-96ee-9dc970e9e08c.png)
 >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 ![13402223_transparent](https://user-images.githubusercontent.com/93947784/200623705-779df583-9768-4b44-bc2c-c4ae2fabfd5d.png)
