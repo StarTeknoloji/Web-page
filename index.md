@@ -1,15 +1,10 @@
-# *(* sTarTeknoloji !! 'quiet security'
-$ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-566fec5c-d710-4dcb-b5e2-7880e2d4d970.png)
-![indir (25)](https://user-images.githubusercontent.com/93947784/197099060-5e8ccc29-52b6-41ce-bdd7-353110b62fd0.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
+# ***`(*` sTarTeknoloji !! 'quiet security'
+![STARteknoloji](https://user-images.githubusercontent.com/93947784/204149406-a97be625-a127-4542-96ee-9dc970e9e08c.png)
 >>![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 ![13402223_transparent](https://user-images.githubusercontent.com/93947784/200623705-779df583-9768-4b44-bc2c-c4ae2fabfd5d.png)
-
-
-# $*Güvenli Alış Veriş (yapım aşamasında)
-# [Ürün Listesi PayPal Ödeme](https://starteknoloji.space/PayPal)
-
-
->>![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
+![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-566fec5c-d710-4dcb-b5e2-7880e2d4d970.png)
+![indir (25)](https://user-images.githubusercontent.com/93947784/197099060-5e8ccc29-52b6-41ce-bdd7-353110b62fd0.png)![311363061_441927604750503_40249331217705373_n](https://user-images.githubusercontent.com/93947784/196638572-06d9aee1-aaac-4f76-9c90-51efaf6f3ecc.jpg)![indir (7)](https://user-images.githubusercontent.com/93947784/197540001-4a7ce272-e92e-4f67-b6c4-76d8613d2745.png)
+>>>![13601876_transparent (1)](https://user-images.githubusercontent.com/93947784/191731086-ee016750-ffd5-430f-80f5-5c126b39c97a.png)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/jekyll-gh-pages.yml)
 [![Codacy Security Scan](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/codacy.yml)
 [![Deploy static content to Pages](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/static.yml)
@@ -80,9 +75,9 @@ $ % ![indir (11)](https://user-images.githubusercontent.com/93947784/196600119-5
 ![1666597976341](https://user-images.githubusercontent.com/93947784/197486488-c3f4e333-9947-4aea-b1f0-fa5a5c441a48.png)
 
 # *Some Applications To Be Used On Our Site For Our Goals
-- **` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`
-- **` Message box Comment` 
-- **` Site Security` 
+- ***` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`***
+- ***` Message box Comment`*** 
+- ***` Site Security`*** 
 The literal continues until de-dented, and the leading indentation is
 stripped.
 
