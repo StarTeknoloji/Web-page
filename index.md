@@ -17,14 +17,14 @@
 [![CI](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml/badge.svg)](https://github.com/StarTeknoloji/Web-Sitesi/actions/workflows/blank.yml)
 
 # ***StarTeknoloji.space***
-## Computer İnformation Services     
->>> ## - `Computer and Peripherals`
->>> ## - `Network Setup`
->>> ## - `Website Setup` 
->>> ## - `Server Setup`
->>> ## - `Enterprise Application Management and Release Development`              
->>> ## - `Information Technology Consulting, Microsoft MCP Continuity`
->>>## Missions %100 local  
+>> ## Computer İnformation Services     
+>> ## - `Computer and Peripherals`
+>> ## - `Network Setup`
+>> ## - `Website Setup` 
+>> ## - `Server Setup`
+>> ## - `Enterprise Application Management and Release Development`              
+>> ## - `Information Technology Consulting, Microsoft MCP Continuity`
+>>> ## ***Missions %100 local***  
 >>> # 1.`Computer, Phone, Tablet, Technical Service.`
 >>> # 2.`Operating System Installation, Application Installation,.`
 >>> # 3.`Backup and Recovery`
