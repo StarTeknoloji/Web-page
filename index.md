@@ -1,4 +1,5 @@
- - **`(*`** **WEB Planet**
+- **`(*`** **WEB Planet**
+
 ![STARteknoloji](https://user-images.githubusercontent.com/93947784/204149406-a97be625-a127-4542-96ee-9dc970e9e08c.png)
 ![5077109_transparent](https://user-images.githubusercontent.com/93947784/187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906.png)  
 ![13402223_transparent](https://user-images.githubusercontent.com/93947784/200623705-779df583-9768-4b44-bc2c-c4ae2fabfd5d.png)
@@ -52,29 +53,28 @@
 
 >>> ## *This is an Emerging Platform. Please Contribute !!!
 
-## Our Sites Published
- ## [Tracing CodesExe](https://codesexe.com)        
- ## [StarTeknolog Standard Js. Style](https://starteknolog.com)
- ## [starcomputer.space Fast Pages](https://starcomputer.space)   
- ## [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
- ## [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
- ## yıldızteknoloji.com  ( not published )
- ## codes.computer       ( not published )
- ## http://teknoloji.space 
- ## www.starteknoloji.net
+>>> ## Our Sites Published
+  ## [Tracing CodesExe](https://codesexe.com)        
+  ## [StarTeknolog Standard Js. Style](https://starteknolog.com)
+  ## [starcomputer.space Fast Pages](https://starcomputer.space)   
+  ## [codes İstanbul Katkıda bulunabilirsiniz](http://codes.istanbul)
+  ## [codes İst Katkıda bulunabilirsiniz](http://.codes.ist)
+  ## yıldızteknoloji.com  ( not published )
+  ## codes.computer       ( not published )
+  ## http://teknoloji.space 
+> ## www.starteknoloji.net
 
- ## *Support or Contact
- ## `+90 0507 236 39 28`    
- ## `+90 0288 318 33 40` 
- ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
- ## [ercetinguler@codesexe.com](https://outlook.live.com)
- ## [author@codes.computer](https://outlook.live.com)
- ## [user@starcomputer.space](https://outlok.live.com)
- ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)Erçetin Güler, Aynur Zorlu     
-`UA-240549066-1S`
+>>> ## *Support or Contact
+  ## `+90 0507 236 39 28`    
+  ## `+90 0288 318 33 40` 
+  ## [ercetinguler@starteknoloji.space](https://outlook.live.com)    
+  ## [ercetinguler@codesexe.com](https://outlook.live.com)
+  ## [author@codes.computer](https://outlook.live.com)
+  ## [user@starcomputer.space](https://outlok.live.com)
+> ## [Evren Mahallesi, Atatürk Caddesi, Cami Sokak, Meriç Sİtesi Kutraloğlu Pasajı, No:09f Türkiye/Kırklareli/VİzE](https://www.google.com/maps/place/StarTeknoloji/@41.5715729,27.7698912,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x247289a97a83db4f!8m2!3d41.5715729!4d27.7698912)Erçetin Güler, Aynur Zorlu     
+
 ![1666597976341](https://user-images.githubusercontent.com/93947784/197486488-c3f4e333-9947-4aea-b1f0-fa5a5c441a48.png)
-
-# *Some Applications To Be Used On Our Site For Our Goals
+# ***Some Applications To Be Used On Our Site For Our Goals***
 - ***` KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Dagger, Reveal js.`***
 - ***` Message box Comment`*** 
 - ***` Site Security`*** 
@@ -85,6 +85,7 @@ stripped.
     these lines will be indented by 4 spaces. folded_style: >
 This entire block of text will be the value of 'folded_style', but this
 time, all newlines will be replaced with a single space.
+
 Blank lines, like above, are converted to a newline character.
     'More-indented' lines keep their newlines, too -
     this text will appear over two lines. #*
