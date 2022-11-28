@@ -106,7 +106,8 @@ double quotes: "have many: \", \0, \t, \u263A, \x0d\x0a == \r\n, and more."
 Superscript two: \u00B2
 # Multiple-line strings can be written either as a 'literal block' (using |),
 # or a 'folded block' (using '>').
-literal_block: | This entire block of text will be the value of the 'literal_block' key,
+literal_block: |
+This entire block of text will be the value of the 'literal_block' key,
     with line breaks being preserved.
     The literal continues until de-dented, and the leading indentation is
     stripped.
