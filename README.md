@@ -1,6 +1,6 @@
 # ***İyi Günler***  
 # ***Star Teknoloji*** 
 # ***@starcomputer.space***
-# ***https://starcomputer.soace***
+# ***https://starcomputer.space***
 # ***http://web.starcomputer.space***
 
