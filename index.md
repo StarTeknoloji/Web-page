@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=2c3d5e053d24b29aa66b253b50c636271bfb6d45" media="screen" type="text/css">
+    <link rel="stylesheet" href="/assets/css/style.css?v=36a12c3d62ce5b239c124f6df275fddec7b8ddd0" media="screen" type="text/css">
     <link rel="stylesheet" href="/assets/css/print.css" media="print" type="text/css">
 
     <!--[if lt IE 9]>
@@ -79,7 +79,6 @@
 </ul>
 <iframe width="760px" height="500px" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen="" mozallowfullscreen="" msallowfullscreen="" webkitallowfullscreen=""></iframe>
 
-
 <h2 id="di̇scord"><strong><em>DİSCORD</em></strong></h2>
 <h3 id="discord-invitation-game-ci-torio-standard-js-stil-channels-can-be-opened-on-request"><strong><em><a href="https://discord.gg/J2vaXFvC8d">Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request</a></em></strong></h3>
 <h3 id="discord-invitation-starteknoloji-server-broadcast-can-be-done"><strong><em><a href="https://discord.new/p24B69R7WePt">Discord Invitation StarTeknoloji server broadcast can be done</a></em></strong></h3>
@@ -89,8 +88,8 @@
 
 <p><img src="https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png" alt="13369547_transparent (4)"></p>
 <h2 id="this-is-an-emerging-platform"><strong><em>This is an Emerging Platform</em></strong></h2>
-<h2 id="please-contribute"><strong><em>Please Contribute</em></strong><img src=![unnamed (6)](https://github.com/StarTeknoloji/Web.StarComputer.Space/assets/93947784/8deb5cf8-8767-4557-a9cc-9ee1bdcba008)
-" alt="unnamed31"></h2>
+<h2 id="please-contribute"><strong><em>Please Contribute</em></strong><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/da77d84a-272f-4794-ac32-369a2c162cc6" alt="unnamed (6)"></h2>
+
 <h3 id="about---defter----local"><strong><em><a href="https://starteknoloji.space/about">About</a></em></strong>   <strong><em><a href="https://starteknoloji.github.io/Defter">Defter</a></em></strong>    <strong><em><a href="https://starteknoloji.space/blog">Local</a></em></strong></h3>
 <h3 id="404--jekyll"><strong><em><a href="https://starteknoloji.space/inboks">404.</a></em></strong>  <strong><em><a href="https://starteknoloji.dev">Jekyll</a></em></strong></h3>
 <h2 id="announcement"><strong><em>ANNOUNCEMENT</em></strong></h2>
