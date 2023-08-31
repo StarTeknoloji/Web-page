@@ -282,9 +282,3 @@ another_key: another_value  -
       </div>
     </div>
 </div>
-
-
-
-  
-
-</body></html>
