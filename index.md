@@ -84,8 +84,8 @@
 The literal continues until de-dented, and the leading indentation is
 stripped.
 
-Any lines that are 'more-indented' keep the rest of their indentation -
-these lines will be indented by 4 spaces. folded_style: > # Comments in YAML look like this.################
+    Any lines that are 'more-indented' keep the rest of their indentation -
+    these lines will be indented by 4 spaces. folded_style: > # Comments in YAML look like this.################
 # SCALAR TYPES #
 ################
 # Our root object (which continues for the entire document) will be a map,
@@ -224,119 +224,4 @@ set2:
   item2: null
   item3: null
 ...  # document end > |
-Markalarımız
-Asus
-Amd
-Aoc
-A4 Tech
-Argox
-Aclas
-AJAX
-Acer
-Armagan
-Addison
-Benq
-Bixolon
-Bitdefender
-Berqnet
-Bory
-Cougar
-Cbox
-Codegen
-Canon
-Cambox
-Dell
-Dark
-Dahua
-Datalogic
-Dlink
-Decon
-Dct
-Esonic
-Everest
-Epson
-Eset
-FSP
-Fragile
-Foem
-Frisby
-Gigabyte
-Godex
-Goodram
-HI-LEVEL
-Hp
-Hikvision
-Honeywell
-Hilook
-Hytech
-Huawei
-H3C
-Haikon
-Intel
-Izoly
-Inform
-Inca
-Ip-Com
-Kingston
-Kioxia
-Kaspersky
-KEENETIC
-Logitech
-Lg
-Lenovo
-Msi
-Makelsan
-Microsoft
-Mikado
-Newland
-NZXT
-Optoma
-Oem
-Philips
-Perkon
-Performax
-Palmx
-PROXSEN
-Pny
-Qnap
-Rampage
-Ruijie
-Seagate
-Samsung
-Sunlux
-Sensei
-Snopy
-Slink
-Seclife
-Synology
-Steelseries
-SENS
-Tiwox
-Teknim
-Tp-Link
-Technopc
-Ttec
-TESCOM
-Twinmos
-Thermaltake
-Tiandy
-Uranium
-Uniview
-UBNT
-Vento
-Viewsonic
-WD
-Webroot
-XPG
-Xigmatek
-Xerox
-Xprinter
-Xiaomi
-Xfx
-Yıldırım
-Zalman
-Zebra
-Zebex
-ZkTeco
-   
    
