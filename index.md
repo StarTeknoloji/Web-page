@@ -81,9 +81,11 @@
 - ***` Message box Comment`*** 
 - ***` Site Security`*** 
 
-    ---  # document start
-    # Comments in YAML look like this.
-################
+   The literal continues until de-dented, and the leading indentation is
+stripped.
+
+    Any lines that are 'more-indented' keep the rest of their indentation -
+    these lines will be indented by 4 spaces. folded_style: > # Comments in YAML look like this.################
 # SCALAR TYPES #
 ################
 # Our root object (which continues for the entire document) will be a map,
@@ -107,15 +109,23 @@ Superscript two: \u00B2
 # Multiple-line strings can be written either as a 'literal block' (using |),
 # or a 'folded block' (using '>').
 literal_block: |
-This entire block of text will be the value of the 'literal_block' key,
+    This entire block of text will be the value of the 'literal_block' key,
     with line breaks being preserved.
     The literal continues until de-dented, and the leading indentation is
     stripped.
         Any lines that are 'more-indented' keep the rest of their indentation -
         these lines will be indented by 4 spaces.
-folded_style: > This entire block of text will be the value of 'folded_style', but this
+folded_style: >
+    This entire block of text will be the value of 'folded_style', but this
     time, all newlines will be replaced with a single space.
-    Blank lines, like above, are converted to a newline character.
+  This entire block of text will be the value of 'folded_style', but this
+time, all newlines will be replaced with a single space.
+
+Blank lines, like above, are converted to a newline character.
+
+    'More-indented' lines keep their newlines, too -
+    this text will appear over two lines.---  # document start
+ Blank lines, like above, are converted to a newline character.
         'More-indented' lines keep their newlines, too -
         this text will appear over two lines.
 ####################
@@ -130,8 +140,7 @@ a_nested_map:
 # Maps don't have to have string keys.
 0.25: a float key
 # Keys can also be complex, like multi-line objects
-# We use ? followed by a space to indicate the start of a complex key.
-? |
+# We use ? followed by a space to indicate the start of a complex key.? |
   This is a key
   that has multiple lines
 : and this is its value
@@ -149,7 +158,7 @@ a_sequence:
   - 0.5  # sequences can contain disparate types.
   - Item 4
   - key: value
-    another_key: another_value
+    another_key: another_value  -
     - This is a sequence
     - inside another sequence
   - - - Nested sequence indicators
@@ -214,7 +223,120 @@ set2:
   item1: null
   item2: null
   item3: null
-...  # document end
-
+...  # document end > |
+Markalarımız
+Asus
+Amd
+Aoc
+A4 Tech
+Argox
+Aclas
+AJAX
+Acer
+Armagan
+Addison
+Benq
+Bixolon
+Bitdefender
+Berqnet
+Bory
+Cougar
+Cbox
+Codegen
+Canon
+Cambox
+Dell
+Dark
+Dahua
+Datalogic
+Dlink
+Decon
+Dct
+Esonic
+Everest
+Epson
+Eset
+FSP
+Fragile
+Foem
+Frisby
+Gigabyte
+Godex
+Goodram
+HI-LEVEL
+Hp
+Hikvision
+Honeywell
+Hilook
+Hytech
+Huawei
+H3C
+Haikon
+Intel
+Izoly
+Inform
+Inca
+Ip-Com
+Kingston
+Kioxia
+Kaspersky
+KEENETIC
+Logitech
+Lg
+Lenovo
+Msi
+Makelsan
+Microsoft
+Mikado
+Newland
+NZXT
+Optoma
+Oem
+Philips
+Perkon
+Performax
+Palmx
+PROXSEN
+Pny
+Qnap
+Rampage
+Ruijie
+Seagate
+Samsung
+Sunlux
+Sensei
+Snopy
+Slink
+Seclife
+Synology
+Steelseries
+SENS
+Tiwox
+Teknim
+Tp-Link
+Technopc
+Ttec
+TESCOM
+Twinmos
+Thermaltake
+Tiandy
+Uranium
+Uniview
+UBNT
+Vento
+Viewsonic
+WD
+Webroot
+XPG
+Xigmatek
+Xerox
+Xprinter
+Xiaomi
+Xfx
+Yıldırım
+Zalman
+Zebra
+Zebex
+ZkTeco
    
    
