@@ -81,11 +81,11 @@
 - ***` Message box Comment`*** 
 - ***` Site Security`*** 
 
-   The literal continues until de-dented, and the leading indentation is
+The literal continues until de-dented, and the leading indentation is
 stripped.
 
-    Any lines that are 'more-indented' keep the rest of their indentation -
-    these lines will be indented by 4 spaces. folded_style: > # Comments in YAML look like this.################
+Any lines that are 'more-indented' keep the rest of their indentation -
+these lines will be indented by 4 spaces. folded_style: > # Comments in YAML look like this.################
 # SCALAR TYPES #
 ################
 # Our root object (which continues for the entire document) will be a map,
