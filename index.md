@@ -81,8 +81,8 @@
 - ***` Message box Comment`*** 
 - ***` Site Security`*** 
 
----  # document start
-# Comments in YAML look like this.
+    ---  # document start
+    # Comments in YAML look like this.
 ################
 # SCALAR TYPES #
 ################
