@@ -89,7 +89,8 @@
 
 <p><img src="https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png" alt="13369547_transparent (4)"></p>
 <h2 id="this-is-an-emerging-platform"><strong><em>This is an Emerging Platform</em></strong></h2>
-<h2 id="please-contribute"><strong><em>Please Contribute</em></strong><img src="https://user-images.githubusercontent.com/93947784/212498936-4b860c9c-13d1-49aa-a681-1c817c39f1df.png" alt="unnamed31"></h2>
+<h2 id="please-contribute"><strong><em>Please Contribute</em></strong><img src=![unnamed (6)](https://github.com/StarTeknoloji/Web.StarComputer.Space/assets/93947784/8deb5cf8-8767-4557-a9cc-9ee1bdcba008)
+" alt="unnamed31"></h2>
 <h3 id="about---defter----local"><strong><em><a href="https://starteknoloji.space/about">About</a></em></strong>   <strong><em><a href="https://starteknoloji.github.io/Defter">Defter</a></em></strong>    <strong><em><a href="https://starteknoloji.space/blog">Local</a></em></strong></h3>
 <h3 id="404--jekyll"><strong><em><a href="https://starteknoloji.space/inboks">404.</a></em></strong>  <strong><em><a href="https://starteknoloji.dev">Jekyll</a></em></strong></h3>
 <h2 id="announcement"><strong><em>ANNOUNCEMENT</em></strong></h2>
