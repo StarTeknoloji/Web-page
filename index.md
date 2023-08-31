@@ -90,7 +90,7 @@
 <h2 id="this-is-an-emerging-platform"><strong><em>This is an Emerging Platform</em></strong></h2>
 <h2 id="please-contribute"><strong><em>Please Contribute</em></strong><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/da77d84a-272f-4794-ac32-369a2c162cc6" alt="unnamed (6)"></h2>
 
-<h3 id="about---defter----local"><strong><em><a href="https://starteknoloji.space/about">About</a></em></strong>   <strong><em><a href="https://starteknoloji.github.io/Defter">Defter</a></em></strong>    <strong><em><a href="https://starteknoloji.space/blog">Local</a></em></strong></h3>
+<h3 id="about---defter----local"><strong><em><a href="https://web.starcomputer.space/about">About</a></em></strong>   <strong><em><a href="https://starteknoloji.github.io/Defter">Defter</a></em></strong>    <strong><em><a href="https://starteknoloji.space/blog">Local</a></em></strong></h3>
 <h3 id="404--jekyll"><strong><em><a href="https://starteknoloji.space/inboks">404.</a></em></strong>  <strong><em><a href="https://starteknoloji.dev">Jekyll</a></em></strong></h3>
 <h2 id="announcement"><strong><em>ANNOUNCEMENT</em></strong></h2>
 <h3 id="those-who-want-to-contribute-to-wwwcodesistanbul-or-wwwcodesist-can-send-an-e-mail-to-ercetingulerhotmailcom-people-with-open-source-app-projects-are-helped-to-work-on-these-sites-it-is-free"><strong><em>Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@hotmail.com People with Open Source, app projects are helped to work on these sites. It is free.</em></strong></h3>
