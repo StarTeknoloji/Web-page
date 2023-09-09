@@ -92,7 +92,7 @@
 
 <iframe src="https://starcomputer.space/" title="StarTeknoloji.space" height="400" width="700" style="border: 0;"></iframe>
 
-<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="700" style="border: 0;"></iframe>
+<iframe src="https://starteknoloji.space" title="Planet" height="400" width="700" style="border: 0;"></iframe>
 <hr>
 <h2 id="di̇scord"><strong><em>DİSCORD</em></strong></h2>
 <h3 id="discord-invitation-game-ci-torio-standard-js-stil-channels-can-be-opened-on-request"><strong><em><a href="https://discord.gg/J2vaXFvC8d">Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request</a></em></strong></h3>
