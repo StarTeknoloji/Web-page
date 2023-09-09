@@ -9,6 +9,17 @@
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
 
+<html lang="en-US"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/assets/css/style.css?v=174eef680b50442e059ec902fc7a1082678af265" media="screen" type="text/css">
+    <link rel="stylesheet" href="/assets/css/print.css" media="print" type="text/css">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>(* STAR Teknoloji | Star* Teknoloji Hİzmetinizde Hoşgeldiniz. Google Haritalar ve Github Sayfalarında Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.</title>
 <meta name="generator" content="Jekyll v3.9.3">
@@ -40,7 +51,7 @@
 
   </head>
 
-  <body bgcolor="white">
+  <body>
     <header>
       <div class="inner">
         <a href="http://starteknoloji.space/">
@@ -79,18 +90,29 @@
 </ul>
 <iframe width="760px" height="500px" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen="" mozallowfullscreen="" msallowfullscreen="" webkitallowfullscreen=""></iframe>
 
+<iframe src="https://starcomputer.space/" title="StarTeknoloji.space" height="400" width="1000" style="border: 0;"></iframe>
+
+<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
+<hr>
 <h2 id="di̇scord"><strong><em>DİSCORD</em></strong></h2>
 <h3 id="discord-invitation-game-ci-torio-standard-js-stil-channels-can-be-opened-on-request"><strong><em><a href="https://discord.gg/J2vaXFvC8d">Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request</a></em></strong></h3>
 <h3 id="discord-invitation-starteknoloji-server-broadcast-can-be-done"><strong><em><a href="https://discord.new/p24B69R7WePt">Discord Invitation StarTeknoloji server broadcast can be done</a></em></strong></h3>
+<hr>
 <iframe src="https://discordapp.com/widget?id=1007605187197800530&amp;theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
 
-<p><img src="https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png" alt="13369547_transparent (4)"></p>
-<h2 id="this-is-an-emerging-platform"><strong><em>This is an Emerging Platform</em></strong></h2>
-<h2 id="please-contribute"><strong><em>Please Contribute</em></strong><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/da77d84a-272f-4794-ac32-369a2c162cc6" alt="unnamed (6)"></h2>
+<blockquote>
+  <blockquote>
+    <p><img src="https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png" alt="13369547_transparent (4)">
+<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3" alt="rotating_knot">
+***</p>
+  </blockquote>
+</blockquote>
 
-<h3 id="about---defter----local"><strong><em><a href="https://web.starcomputer.space/about">About</a></em></strong>   <strong><em><a href="https://starteknoloji.github.io/Defter">Defter</a></em></strong>    <strong><em><a href="https://starteknoloji.space/blog">Local</a></em></strong></h3>
+<h2 id="this-is-an-emerging-platform"><strong><em>This is an Emerging Platform</em></strong></h2>
+<h2 id="please-contribute"><strong><em>Please Contribute</em></strong><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/33f1467c-6939-4793-8866-2ae63b79650d" alt="unnamed2"></h2>
+<h3 id="defter----local"><strong><em><a href="https://starteknoloji.github.io/Defter">Defter</a></em></strong>    <strong><em><a href="https://starteknoloji.space/blog">Local</a></em></strong></h3>
 <h3 id="404--jekyll"><strong><em><a href="https://starteknoloji.space/inboks">404.</a></em></strong>  <strong><em><a href="https://starteknoloji.dev">Jekyll</a></em></strong></h3>
 <h2 id="announcement"><strong><em>ANNOUNCEMENT</em></strong></h2>
 <h3 id="those-who-want-to-contribute-to-wwwcodesistanbul-or-wwwcodesist-can-send-an-e-mail-to-ercetingulerhotmailcom-people-with-open-source-app-projects-are-helped-to-work-on-these-sites-it-is-free"><strong><em>Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@hotmail.com People with Open Source, app projects are helped to work on these sites. It is free.</em></strong></h3>
@@ -99,19 +121,31 @@
 <h2 id="bilgisayar-bilimi-lab-hedeflerimiz-i̇çin-sitemizde-kullanılacak-bazı-uygulamalar"><strong><em>Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar</em></strong></h2>
 <h3 id="katex-tracing-js-standard-style-unity-game-ci-jupyterlab-jupyterlabgit-run-matlab-novu-rehber-yorum-dagger-reveal-js"><strong><em>KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.</em></strong></h3>
 <h3 id="mesaj-ve-yorum-kutusu"><strong><em>Mesaj ve yorum kutusu</em></strong></h3>
-<h2 id="game-start-uni"><strong><em>Game Start Uni</em></strong></h2>
+<hr>
+<h2 id="game-start-uni-"><strong><em>Game Start Uni</em></strong> ##<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/f000cd3c-8ddb-4711-9ddd-e3baf1bea7ea" alt="images (1)"></h2>
 <h1 id="--starshadespacetarshinecometstarsuffsecur--"><strong><em>&lt;!</em> <em>–</em> <em><code class="language-plaintext highlighter-rouge">StarshadeSpacetarShineCometStarsuffSecur</code> –</em> &gt;</strong>*</h1>
 <h3 id="buradaki-kelimeleri-karıştırıp-yazın-dilinizde-türeyen-anlamlardan-kahramaınızı-bulunevrendeki-yönün-içindeki-anlamlı-kelimeri-google-translate-kullanarak-ortaya-cıkan-cümlelerin-anlamlarını-yer-değiştirin-defalarca-türetin"><strong><em>Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin</em></strong></h3>
+<p><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b6c04ac-5d96-4f72-8e9e-372366d40d07" alt="comment-grey-bubble-2x">
+<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/17de8a8f-ee76-4703-82aa-9eef83c0aae4" alt="er"></p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>***Oyunun İçeriği: &gt; 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>***Kinetik Enerji Sonuçu Ortaya Çıkan On/Off Button İle Çalışan Kelime Cambazı Robotumuz Ş.E. Star Bilgisayar Ürünüdür. Oyunun İçeriği: &gt; 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
 </code></pre></div></div>
 
+<p><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5973b6c8-53d1-4756-9899-d29c180fe23e" alt="typing_slimes"></p>
+<h3 id="v2-robot-arkadaşım-eş"><strong><em>V2 ROBOT Arkadaşım Eş<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/88b9c8ac-95ce-4baa-bc78-d10c8d8ea8f4" alt="dots-dark"></em></strong></h3>
+<h3 id="v1-robot-zeki-şebana-bakar-i̇ken-paralar-mıngır-i̇ken-ormanda-gezer-i̇ken-buldum-onu-tekerlerken-çarpılçak-bana-dönerken-hepimiz-onu-severken-beyaz-onu-döverken-sevinir-aniden-aklı-i̇zin-vermezken-kırmızı-işıkta-dururken-yeşilde-giderken-kedisi-olduğu-yerde-bakarken-eg-gerçek-olmuş-giderken-teknisyenin-v3-tasarlarken-tamirin-arka-sıradayken-okulda-bizde-219-code-i̇ken"><strong><em>V1 ROBOT Zeki Ş.e.<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9a990b3b-08b7-4efe-bdfe-8f0927719c0b" alt="spinner">Bana Bakar İken, Paralar Mıngır İken, Ormanda Gezer İken, Buldum Onu Tekerlerken, Çarpılçak Bana Dönerken, Hepimiz Onu Severken, Beyaz Onu Döverken, Sevinir Aniden, Aklı İzin Vermezken, Kırmızı Işıkta Dururken, Yeşilde Giderken, Kedisi Olduğu Yerde Bakarken, E.G. Gerçek Olmuş Giderken, Teknisye’nin V3 Tasarlarken, Tamirin Arka Sıradayken, Okulda Bizde <code class="language-plaintext highlighter-rouge">219</code> Code İken.</em></strong></h3>
+<hr>
+<p><strong><em>Gizli Duygular Diyarı MiniStar Robotları Top <code class="language-plaintext highlighter-rouge">13</code></em></strong><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/48466b1b-9c91-423a-9536-52742d5c0663" alt="stars-2x">
+<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/b8b15819-5c7a-4d2d-9554-9aaadcecf613" alt="menu-vs-2x"></p>
 <h2 id="support-us-contact"><strong><em>Support us Contact</em></strong></h2>
 <h3 id="90-0507-236-39-28"><strong><em><code class="language-plaintext highlighter-rouge">+90 0507 236 39 28</code></em></strong></h3>
 <h3 id="90-0288-318-35-60"><strong><em><code class="language-plaintext highlighter-rouge">+90 0288 318 35 60</code></em></strong></h3>
+<h3 id="about"><strong><em><a href="https://starteknoloji.space/about">About</a></em></strong></h3>
 <h3 id="erçetin-güleraynur-zorlu"><strong><em><a href="https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin">Erçetin Güler</a></em></strong>&amp;<strong><em><a href="https://starteknoloji.space/hakkında">Aynur Zorlu</a></em></strong></h3>
-<p><a href="https://www.google.com/maps/place/StarMyTech/@41.5787301,27.754319,14.25z/data=!4m6!3m5!1s0x8589cedab6ca02d5:0x8da10b9017145715!8m2!3d41.57526!4d27.7662555!16s%2Fg%2F11ssx8xy_s?hl=en"><img src="https://user-images.githubusercontent.com/93947784/201494110-4f844e2c-89bd-418a-9dd5-3f52e07dd71e.png" alt="16682862097148675975993447254057"></a> 
+<blockquote>
+  <p><a href="https://www.google.com/maps/place/StarMyTech/@41.5787301,27.754319,14.25z/data=!4m6!3m5!1s0x8589cedab6ca02d5:0x8da10b9017145715!8m2!3d41.57526!4d27.7662555!16s%2Fg%2F11ssx8xy_s?hl=en"><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/51d0ddd4-7108-4e09-9589-5390655b61b9" alt="unnamed3"></a> 
  <strong><em><code class="language-plaintext highlighter-rouge">Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir</code></em></strong></p>
+</blockquote>
 
 <p><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3" alt="starspace (1)"></p>
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br>Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&amp;size=large&amp;timezone=Europe%2FIstanbul" width="100%" height="140" frameborder="0" seamless=""></iframe> </div>
@@ -147,138 +181,25 @@ another_key: another_value  -
   - can be collapsed # Since YAML is a superset of JSON, you can also write JSON-style maps and # sequences: json_map: {"key": "value"} json_seq: [3, 2, 1, "takeoff"] and quotes are optional: {key: [3, 2, 1, takeoff]} ####################### # EXTRA YAML FEATURES # ####################### # YAML also has a handy feature called 'anchors', which let you easily duplicate # content across your document. Both of these keys will have the same value: anchored_content: &amp;anchor_name This string will appear as the value of two keys. other_anchor: *anchor_name # Anchors can be used to duplicate/inherit properties base: &amp;base   name: Everyone has same name # The regexp &lt;&lt; is called Merge Key Language-Independent Type. It is used to # indicate that all the keys of one or more specified maps should be inserted # into the current map. foo:   &lt;&lt;: *base   age: 10 bar:   &lt;&lt;: *base   age: 20 # foo and bar would also have name: Everyone has same name # YAML also has tags, which you can use to explicitly declare types. explicit_string: !!str 0.5 # Some parsers implement language specific tags, like this one for Python's # complex number type. python_complex_number: !!python/complex 1+2j # We can also use yaml complex keys with language specific tags ? !!python/tuple [5, 7] : Fifty Seven # Would be {(5, 7): 'Fifty Seven'} in Python #################### # EXTRA YAML TYPES # #################### # Strings and numbers aren't the only scalars that YAML can understand. # ISO-formatted date and datetime literals are also parsed. datetime: 2001-12-15T02:59:43.1Z datetime_with_spaces: 2001-12-14 21:59:43.10 -5 date: 2002-12-14 # The !!binary tag indicates that a string is actually a base64-encoded # representation of a binary blob. gif_file: !!binary |   R0lGODlhDAAMAIQAAP//9/X17unp5WZmZgAAAOfn515eXvPz7Y6OjuDg4J+fn5   OTk6enp56enmlpaWNjY6Ojo4SEhP/++f/++f/++f/++f/++f/++f/++f/++f/+   +f/++f/++f/++f/++f/++SH+Dk1hZGUgd2l0aCBHSU1QACwAAAAADAAMAAAFLC   AgjoEwnuNAFOhpEMTRiggcz4BNJHrv/zCFcLiwMWYNG84BwwEeECcgggoBADs= # YAML also has a set type, which looks like this: set:   ? item1   ? item2   ? item3 or: {item1, item2, item3} # Sets are just maps with null values; the above is equivalent to: set2:   item1: null   item2: null   item3: null ...  # document end &gt; | Markalarımız Asus Amd Aoc A4 Tech Argox Aclas AJAX Acer Armagan Addison Benq Bixolon Bitdefender Berqnet Bory Cougar Cbox Codegen Canon Cambox Dell Dark Dahua Datalogic Dlink Decon Dct Esonic Everest Epson Eset FSP Fragile Foem Frisby Gigabyte Godex Goodram HI-LEVEL Hp Hikvision Honeywell Hilook Hytech Huawei H3C Haikon Intel Izoly Inform Inca Ip-Com Kingston Kioxia Kaspersky KEENETIC Logitech Lg Lenovo Msi Makelsan Microsoft Mikado Newland NZXT Optoma Oem Philips Perkon Performax Palmx PROXSEN Pny Qnap Rampage Ruijie Seagate Samsung Sunlux Sensei Snopy Slink Seclife Synology Steelseries SENS Tiwox Teknim Tp-Link Technopc Ttec TESCOM Twinmos Thermaltake Tiandy Uranium Uniview UBNT Vento Viewsonic WD Webroot XPG Xigmatek Xerox Xprinter Xiaomi Xfx Yıldırım Zalman Zebra Zebex ZkTeco
 </code></pre></div></div>
 
-<script src="https://gist.github.com/Codes-Exe/41e347dd8b5d0062699c0df518bdc201.js"></script><link rel="stylesheet" href="https://github.githubassets.com/assets/gist-embed-0e9bf67cc0c6.css"><div id="gist117822934" class="gist">
-    <div class="gist-file" translate="no">
-      <div class="gist-data">
-        <div class="js-gist-file-update-container js-task-list-container file-box">
-  <div id="file-licrc" class="file my-2">
-    
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  ">
+<p><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348" alt="bubble_bg-2x"><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/40da56cb-8dba-450d-8003-7970e7120237" alt="1666597976341"></p>
 
-        
-<div class="js-check-bidi js-blob-code-container blob-code-content">
-
-  <template class="js-file-alert-template">
-  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
-    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
-</svg>
-    <span>
-      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
-      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
-    </span>
+<hr>
 
 
-  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
-</a>
-</div>
-</div></template>
-<template class="js-line-alert-template">
-  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
-    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
-</svg>
-</span></template>
+        </section>
 
-  <table data-hpc="" class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip="" data-tagsearch-lang="" data-tagsearch-path=".licrc">
-        <tbody><tr>
-          <td id="file-licrc-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="file-licrc-LC1" class="blob-code blob-code-inner js-file-line"># IMPORTANT!: ALL SECTIONS ARE MANDATORY</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="file-licrc-LC2" class="blob-code blob-code-inner js-file-line">[licenses]</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="file-licrc-LC3" class="blob-code blob-code-inner js-file-line"># This indicates which are the only licenses that Licensebat will accept.</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="file-licrc-LC4" class="blob-code blob-code-inner js-file-line"># The rest will be flagged as not allowed.</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="file-licrc-LC5" class="blob-code blob-code-inner js-file-line">accepted = ["MIT", "MSC", "BSD"]</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="file-licrc-LC6" class="blob-code blob-code-inner js-file-line"># This will indicate which licenses are not accepted.</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="file-licrc-LC7" class="blob-code blob-code-inner js-file-line"># The rest will be accepted, except for the unknown licenses or dependencies without licenses.</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="file-licrc-LC8" class="blob-code blob-code-inner js-file-line"># unaccepted = ["LGPL"]</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="file-licrc-LC9" class="blob-code blob-code-inner js-file-line"># Note that only one of the previous options can be enabled at once. </td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="file-licrc-LC10" class="blob-code blob-code-inner js-file-line"># If both of them are informed, only accepted will be considered.</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="file-licrc-LC11" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="file-licrc-LC12" class="blob-code blob-code-inner js-file-line">[dependencies]</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="file-licrc-LC13" class="blob-code blob-code-inner js-file-line"># This will allow users to flag some dependencies so that Licensebat will not check for their license.</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="file-licrc-LC14" class="blob-code blob-code-inner js-file-line">ignored=["ignored_dep1", "ignored_dep2"]</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="file-licrc-LC15" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="file-licrc-LC16" class="blob-code blob-code-inner js-file-line">[behavior]</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="file-licrc-LC17" class="blob-code blob-code-inner js-file-line"># False by default, if true, it will only run the checks when one of the dependency files or the .licrc file has been modified.</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="file-licrc-LC18" class="blob-code blob-code-inner js-file-line">run_only_on_dependency_modification = true</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="file-licrc-LC19" class="blob-code blob-code-inner js-file-line"># False by default, if true, it will never block the build.</td>
-        </tr>
-        <tr>
-          <td id="file-licrc-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="file-licrc-LC20" class="blob-code blob-code-inner js-file-line">do_not_block_pr = false</td>
-        </tr>
-  </tbody></table>
-</div>
+        <aside id="sidebar">
+          
 
+          
+            <p class="repo-owner"><a href="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space">httpsSTARteknoloji.Space</a> is maintained by <a href="https://github.com/StarTeknoloji">StarTeknoloji</a>.</p>
+          
 
-    </div>
-
-  </div>
-</div>
-
-      </div>
-      <div class="gist-meta">
-        <a href="https://gist.github.com/Codes-Exe/41e347dd8b5d0062699c0df518bdc201/raw/d6202526d134f13037afa01ee34e6152b9c56d8c/.licrc" style="float:right">view raw</a>
-        <a href="https://gist.github.com/Codes-Exe/41e347dd8b5d0062699c0df518bdc201#file-licrc">
-          .licrc
-        </a>
-        hosted with ❤ by <a class="Link--inTextBlock" href="https://github.com">GitHub</a>
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</p>
+        </aside>
       </div>
     </div>
-</div>
+
+  
+
+</body></html>
