@@ -1,19 +1,9 @@
-<html lang="en-US"><head>
+<html lang="en-US"><head></head><body><h1>TEKNOLOJİ</h1><h1>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=36a12c3d62ce5b239c124f6df275fddec7b8ddd0" media="screen" type="text/css">
-    <link rel="stylesheet" href="/assets/css/print.css" media="print" type="text/css">
-
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-
-<html lang="en-US"><head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=174eef680b50442e059ec902fc7a1082678af265" media="screen" type="text/css">
+    <link rel="stylesheet" href="/assets/css/style.css?v=400f23ad2ad45a17d098725ec1e5934438335e7f" media="screen" type="text/css">
     <link rel="stylesheet" href="/assets/css/print.css" media="print" type="text/css">
 
     <!--[if lt IE 9]>
@@ -27,14 +17,14 @@
 <meta property="og:locale" content="en_US">
 <meta name="description" content="Star* Teknoloji Hİzmetinizde Hoşgeldiniz. Google Haritalar ve Github Sayfalarında Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.">
 <meta property="og:description" content="Star* Teknoloji Hİzmetinizde Hoşgeldiniz. Google Haritalar ve Github Sayfalarında Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.">
-<link rel="canonical" href="http://starteknoloji.space/">
-<meta property="og:url" content="http://starteknoloji.space/">
+<link rel="canonical" href="https://starteknoloji.space/">
+<meta property="og:url" content="https://starteknoloji.space/">
 <meta property="og:site_name" content="(* STAR Teknoloji">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="(* STAR Teknoloji">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Star* Teknoloji Hİzmetinizde Hoşgeldiniz. Google Haritalar ve Github Sayfalarında Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.","headline":"(* STAR Teknoloji","name":"(* STAR Teknoloji","url":"http://starteknoloji.space/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"Star* Teknoloji Hİzmetinizde Hoşgeldiniz. Google Haritalar ve Github Sayfalarında Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.","headline":"(* STAR Teknoloji","name":"(* STAR Teknoloji","url":"https://starteknoloji.space/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -49,12 +39,12 @@
 
 <!-- end custom head snippets -->
 
-  </head>
+  
 
-  <body>
+  
     <header>
       <div class="inner">
-        <a href="http://starteknoloji.space/">
+        <a href="https://starteknoloji.space/">
           <h1>(* STAR Teknoloji</h1>
         </a>
         <h2>Star* Teknoloji Hİzmetinizde Hoşgeldiniz. Google Haritalar ve Github Sayfalarında Bulabilirsiniz. Bİze Ayırdığınız Vakit için Teşekkür ederiz.</h2>
@@ -90,14 +80,14 @@
 </ul>
 <iframe width="760px" height="500px" src="https://sway.office.com/s/ZVmi07EqEMcIZgHZ/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen="" mozallowfullscreen="" msallowfullscreen="" webkitallowfullscreen=""></iframe>
 
-<iframe src="https://starcomputer.space/" title="StarTeknoloji.space" height="400" width="700" style="border: 0;"></iframe>
+<iframe src="https://starcomputer.space/" title="StarTeknoloji.space" height="400" width="1000" style="border: 0;"></iframe>
 
-<iframe src="https://starteknoloji.space" title="Planet" height="400" width="700" style="border: 0;"></iframe>
-<hr>
+<iframe src="https://web.starcomputer.space" title="Planet" height="400" width="1000" style="border: 0;"></iframe>
+
 <h2 id="di̇scord"><strong><em>DİSCORD</em></strong></h2>
 <h3 id="discord-invitation-game-ci-torio-standard-js-stil-channels-can-be-opened-on-request"><strong><em><a href="https://discord.gg/J2vaXFvC8d">Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request</a></em></strong></h3>
 <h3 id="discord-invitation-starteknoloji-server-broadcast-can-be-done"><strong><em><a href="https://discord.new/p24B69R7WePt">Discord Invitation StarTeknoloji server broadcast can be done</a></em></strong></h3>
-<hr>
+
 <iframe src="https://discordapp.com/widget?id=1007605187197800530&amp;theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="225" width="600" style="border: 0;"></iframe>
 <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="225" width="600" style="border: 0;"></iframe>
@@ -105,8 +95,7 @@
 <blockquote>
   <blockquote>
     <p><img src="https://user-images.githubusercontent.com/93947784/205449344-6e2ae0d7-ac8a-45af-8f20-a01645003ecd.png" alt="13369547_transparent (4)">
-<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3" alt="rotating_knot">
-***</p>
+<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9dc564fc-3358-4e72-8ede-92118f2c6da3" alt="rotating_knot"></p>
   </blockquote>
 </blockquote>
 
@@ -117,24 +106,26 @@
 <h2 id="announcement"><strong><em>ANNOUNCEMENT</em></strong></h2>
 <h3 id="those-who-want-to-contribute-to-wwwcodesistanbul-or-wwwcodesist-can-send-an-e-mail-to-ercetingulerhotmailcom-people-with-open-source-app-projects-are-helped-to-work-on-these-sites-it-is-free"><strong><em>Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@hotmail.com People with Open Source, app projects are helped to work on these sites. It is free.</em></strong></h3>
 <h2 id="our-other-field-topics-and-sections"><strong><em>Our Other Field Topics and Sections</em></strong></h2>
+<h3 id="wwwmycomputerdigital-fast-pages"><strong><em><a href="https://mycomputer.digital">www.mycomputer.digital Fast Pages</a></em></strong></h3>
+<h3 id="wwwcodeexecom-tracing"><strong><em><a href="https://codesexe.com">www.CodeExe.com Tracing</a></em></strong></h3>
 <h3 id="wwwstarteknologcom-standard-js-style"><strong><em><a href="https://starteknolog.com">www.StarTeknolog.com Standard Js. Style</a></em></strong></h3>
 <h2 id="bilgisayar-bilimi-lab-hedeflerimiz-i̇çin-sitemizde-kullanılacak-bazı-uygulamalar"><strong><em>Bilgisayar Bilimi Lab Hedeflerimiz İçin Sitemizde Kullanılacak Bazı Uygulamalar</em></strong></h2>
 <h3 id="katex-tracing-js-standard-style-unity-game-ci-jupyterlab-jupyterlabgit-run-matlab-novu-rehber-yorum-dagger-reveal-js"><strong><em>KaTeX, Tracing, js. Standard Style, Unity Game CI, JupyterLab, JupyterLabGit, Run Matlab, Novu, Rehber, Yorum. Dagger, Reveal js.</em></strong></h3>
 <h3 id="mesaj-ve-yorum-kutusu"><strong><em>Mesaj ve yorum kutusu</em></strong></h3>
-<hr>
-<h2 id="game-start-uni-"><strong><em>Game Start Uni</em></strong> ##<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/f000cd3c-8ddb-4711-9ddd-e3baf1bea7ea" alt="images (1)"></h2>
+
+<h2 id="game-start-uni-cls-4stroke000stroke-miterlimit10stroke-width2pxfillfcea56cls-5fillnonestroke005dccstroke-linecaproundstroke-linejoinroundstroke-width4px"><strong><em>Game Start Uni</em></strong> ##<svg xmlns="http://www.w3.org/2000/svg" id="award_illustration" data-name="award / illustration" viewBox="0 0 157.72 152.03"><defs><style>.cls-4{stroke:#000;stroke-miterlimit:10;stroke-width:2px;fill:#fcea56}.cls-5{fill:none;stroke:#005dcc;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px}</style></defs><g id="Sparkles"><path class="cls-5" d="M129.19 144.28l6.86 3.39M139.52 121.38l16.2 1.62M135.97 97.08l8.13-2.59M21.66 97.26l-8.14-2.57M18.19 121.56L2 123.23M28.59 144.43l-5.88 3.4"></path></g><g id="Band"><path fill="#fcb400" d="M67.05 32.03L57.78.09l41.77.05-8.76 32.06-23.74-.17"></path><path class="cls-4" d="M78.8 79.23L58.22 1.75a.995.995 0 00-1.67-.46L31.33 26.36c-.26.26-.36.64-.27 1l18.15 66.67M108.44 94.03l17.91-66.69c.1-.36 0-.74-.27-.99L100.77 1.33c-.55-.54-1.46-.28-1.66.47L78.8 79.31"></path></g><g id="Medal"><path d="M115.75 114.98c.03 19.88-16.46 36.01-36.83 36.05-20.37.03-36.91-16.06-36.95-35.94-.03-19.88 16.46-36.02 36.83-36.05 20.37-.03 36.91 16.06 36.95 35.94z" stroke="#000" stroke-miterlimit="10" stroke-width="2" fill="#fcb400"></path><path d="M78.88 128.21l-11.41 3.98.32-11.82-7.4-9.36L72 107.65l6.83-9.76 6.87 9.74 11.63 3.32-7.37 9.38.35 11.82-11.42-3.94z" fill="#005dcc"></path></g></svg></h2>
 <h1 id="--starshadespacetarshinecometstarsuffsecur--"><strong><em>&lt;!</em> <em>–</em> <em><code class="language-plaintext highlighter-rouge">StarshadeSpacetarShineCometStarsuffSecur</code> –</em> &gt;</strong>*</h1>
 <h3 id="buradaki-kelimeleri-karıştırıp-yazın-dilinizde-türeyen-anlamlardan-kahramaınızı-bulunevrendeki-yönün-içindeki-anlamlı-kelimeri-google-translate-kullanarak-ortaya-cıkan-cümlelerin-anlamlarını-yer-değiştirin-defalarca-türetin"><strong><em>Buradaki kelimeleri karıştırıp yazın dilinizde türeyen anlamlardan kahramaınızı bulun…Evrendeki yönün Içindeki anlamlı kelimeri google translate kullanarak ortaya cıkan cümlelerin anlamlarını yer değiştirin. Defalarca türetin</em></strong></h3>
 <p><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b6c04ac-5d96-4f72-8e9e-372366d40d07" alt="comment-grey-bubble-2x">
-<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/17de8a8f-ee76-4703-82aa-9eef83c0aae4" alt="er"></p>
+<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/031fcb0e-b674-413b-97c5-17ef65f76e22" alt="unnamed (1)"></p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>***Kinetik Enerji Sonuçu Ortaya Çıkan On/Off Button İle Çalışan Kelime Cambazı Robotumuz Ş.E. Star Bilgisayar Ürünüdür. Oyunun İçeriği: &gt; 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  ***Kinetik Enerji Sonuçu Ortaya Çıkan On/Off Button İle Çalışan Kelime Cambazı Robotumuz Ş.E. Star Bilgisayar Ürünüdür. Oyunun İçeriği: &gt; 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
 </code></pre></div></div>
 
-<p><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5973b6c8-53d1-4756-9899-d29c180fe23e" alt="typing_slimes"></p>
 <h3 id="v2-robot-arkadaşım-eş"><strong><em>V2 ROBOT Arkadaşım Eş<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/88b9c8ac-95ce-4baa-bc78-d10c8d8ea8f4" alt="dots-dark"></em></strong></h3>
-<h3 id="v1-robot-zeki-şebana-bakar-i̇ken-paralar-mıngır-i̇ken-ormanda-gezer-i̇ken-buldum-onu-tekerlerken-çarpılçak-bana-dönerken-hepimiz-onu-severken-beyaz-onu-döverken-sevinir-aniden-aklı-i̇zin-vermezken-kırmızı-işıkta-dururken-yeşilde-giderken-kedisi-olduğu-yerde-bakarken-eg-gerçek-olmuş-giderken-teknisyenin-v3-tasarlarken-tamirin-arka-sıradayken-okulda-bizde-219-code-i̇ken"><strong><em>V1 ROBOT Zeki Ş.e.<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9a990b3b-08b7-4efe-bdfe-8f0927719c0b" alt="spinner">Bana Bakar İken, Paralar Mıngır İken, Ormanda Gezer İken, Buldum Onu Tekerlerken, Çarpılçak Bana Dönerken, Hepimiz Onu Severken, Beyaz Onu Döverken, Sevinir Aniden, Aklı İzin Vermezken, Kırmızı Işıkta Dururken, Yeşilde Giderken, Kedisi Olduğu Yerde Bakarken, E.G. Gerçek Olmuş Giderken, Teknisye’nin V3 Tasarlarken, Tamirin Arka Sıradayken, Okulda Bizde <code class="language-plaintext highlighter-rouge">219</code> Code İken.</em></strong></h3>
-<hr>
+<h3 id="v1-robot-zeki-şe"><strong><em>V1 ROBOT Zeki Ş.e.<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/9a990b3b-08b7-4efe-bdfe-8f0927719c0b" alt="spinner"></em></strong></h3>
+<p><strong><em>»<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/a9684237-759b-4575-9e39-f32756367434" alt="265260382-5973b6c8-53d1-4756-9899-d29c180fe23e">«</em></strong></p>
+
 <p><strong><em>Gizli Duygular Diyarı MiniStar Robotları Top <code class="language-plaintext highlighter-rouge">13</code></em></strong><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/48466b1b-9c91-423a-9536-52742d5c0663" alt="stars-2x">
 <img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/b8b15819-5c7a-4d2d-9554-9aaadcecf613" alt="menu-vs-2x"></p>
 <h2 id="support-us-contact"><strong><em>Support us Contact</em></strong></h2>
@@ -143,9 +134,10 @@
 <h3 id="about"><strong><em><a href="https://starteknoloji.space/about">About</a></em></strong></h3>
 <h3 id="erçetin-güleraynur-zorlu"><strong><em><a href="https://img1.niftyimages.com/a-1/8clo/krxd?txt=Er%C3%A7etin">Erçetin Güler</a></em></strong>&amp;<strong><em><a href="https://starteknoloji.space/hakkında">Aynur Zorlu</a></em></strong></h3>
 <blockquote>
-  <p><a href="https://www.google.com/maps/place/StarMyTech/@41.5787301,27.754319,14.25z/data=!4m6!3m5!1s0x8589cedab6ca02d5:0x8da10b9017145715!8m2!3d41.57526!4d27.7662555!16s%2Fg%2F11ssx8xy_s?hl=en"><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/51d0ddd4-7108-4e09-9589-5390655b61b9" alt="unnamed3"></a> 
- <strong><em><code class="language-plaintext highlighter-rouge">Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir</code></em></strong></p>
+  <p><a href="https://www.google.com/maps/place/StarMyTech/@41.5787301,27.754319,14.25z/data=!4m6!3m5!1s0x8589cedab6ca02d5:0x8da10b9017145715!8m2!3d41.57526!4d27.7662555!16s%2Fg%2F11ssx8xy_s?hl=en"><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/51d0ddd4-7108-4e09-9589-5390655b61b9" alt="unnamed3"></a></p>
 </blockquote>
+
+<p><strong><em><code class="language-plaintext highlighter-rouge">Arızalı Ürünleriniz Adresinizden Teslim Alınır Teslim Edilir</code></em></strong></p>
 
 <p><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3" alt="starspace (1)"></p>
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/738154"><span style="color:gray;">Current local time in</span><br>Vize, Turkey</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&amp;size=large&amp;timezone=Europe%2FIstanbul" width="100%" height="140" frameborder="0" seamless=""></iframe> </div>
@@ -183,8 +175,6 @@ another_key: another_value  -
 
 <p><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/92802604-d1ec-4ee2-91c6-b99f277ee348" alt="bubble_bg-2x"><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/40da56cb-8dba-450d-8003-7970e7120237" alt="1666597976341"></p>
 
-<hr>
-
 
         </section>
 
@@ -202,4 +192,5 @@ another_key: another_value  -
 
   
 
-</body></html>
+
+</h1></body></html>
