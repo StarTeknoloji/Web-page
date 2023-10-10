@@ -119,7 +119,7 @@
 <p><img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b6c04ac-5d96-4f72-8e9e-372366d40d07" alt="comment-grey-bubble-2x">
 <img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/031fcb0e-b674-413b-97c5-17ef65f76e22" alt="unnamed (1)"></p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  ***Kinetik Enerji Sonuçu Ortaya Çıkan On/Off Button İle Çalışan Kelime Cambazı Robotumuz Ş.E. Star Bilgisayar Ürünüdür. Oyunun İçeriği: &gt; 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  *** Oyunun İçeriği: &gt; 10 Tane Herhangi Kelimeyi Yanyana Yazın Sonra Yazdığınız kelimelerden farklı farklı Cümleler Kurun Kuruduğunuz Cümlede Kullandığınız Kelimelerin Eş Anlamlısını Kullanarak daha fazla farklı anlam cıkarın Cıkan Bu Anlamların   içindeki Kahramanınızı Yakalayın!***
 </code></pre></div></div>
 
 <h3 id="v2-robot-arkadaşım-eş"><strong><em>V2 ROBOT Arkadaşım Eş<img src="https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/88b9c8ac-95ce-4baa-bc78-d10c8d8ea8f4" alt="dots-dark"></em></strong></h3>
