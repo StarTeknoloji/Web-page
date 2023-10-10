@@ -104,7 +104,6 @@
 <h3 id="defter----local"><strong><em><a href="https://starteknoloji.github.io/Defter">Defter</a></em></strong>    <strong><em><a href="https://starteknoloji.space/blog">Local</a></em></strong></h3>
 <h3 id="404--jekyll"><strong><em><a href="https://starteknoloji.space/inboks">404.</a></em></strong>  <strong><em><a href="https://starteknoloji.dev">Jekyll</a></em></strong></h3>
 <h2 id="announcement"><strong><em>ANNOUNCEMENT</em></strong></h2>
-<h3 id="those-who-want-to-contribute-to-wwwcodesistanbul-or-wwwcodesist-can-send-an-e-mail-to-ercetingulerhotmailcom-people-with-open-source-app-projects-are-helped-to-work-on-these-sites-it-is-free"><strong><em>Those who want to contribute to www.codes.istanbul or www.codes.ist can send an e-mail to ercetinguler@hotmail.com People with Open Source, app projects are helped to work on these sites. It is free.</em></strong></h3>
 <h2 id="our-other-field-topics-and-sections"><strong><em>Our Other Field Topics and Sections</em></strong></h2>
 <h3 id="wwwmycomputerdigital-fast-pages"><strong><em><a href="https://mycomputer.digital">www.mycomputer.digital Fast Pages</a></em></strong></h3>
 <h3 id="wwwcodeexecom-tracing"><strong><em><a href="https://codesexe.com">www.CodeExe.com Tracing</a></em></strong></h3>
